@@ -1,0 +1,134 @@
+
+#app {
+  font-family: 'Avenir', Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  margin-top: 30px;
+}
+a {
+  color: black;
+  text-decoration: none;
+}
+
+
+.monofont {
+  font-family: monospace;
+  font-size: 15px;
+}
+table,
+svg {
+  margin: auto;
+}
+table td {
+  vertical-align: top;
+}
+path,
+text {
+  fill: black;
+}
+line,
+path,
+rect {
+  stroke: black;
+}
+.nonactive path,
+.nonactive text {
+  fill: gray;
+}
+.nonactive line,
+.nonactive path,
+.nonactive rect {
+  stroke: gray;
+}
+.active path,
+.active text {
+  fill: black;
+}
+.active line,
+.active path,
+.active rect {
+  stroke: black;
+}
+
+text[data-v-6c3e856c] {
+  text-anchor: middle;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+text[data-v-1942c317] {
+  text-anchor: middle;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+line[data-v-2de92734] {
+  stroke: gray;
+  stroke-width: 0;
+}
+
+text[data-v-7e8cf337] { font-size:13px
+}
+
+.background[data-v-3e1128c2] {
+  fill: none;
+  stroke-width: 1;
+}
+
+line[data-v-00181af8] {
+  stroke-width: 2;
+}
+
+.background[data-v-55c99b9d] {
+  fill: none;
+  stroke-width: 1;
+}
+
+.linePath[data-v-afbba798] {
+  fill: none;
+}
+
+text[data-v-727e220b] {
+  font-size: 18px;
+  text-anchor: middle;
+}
+.separator[data-v-727e220b] {
+  stroke-width: 0.5;
+}
+.bigSeparator[data-v-727e220b] {
+  stroke-width: 1;
+}
+.background[data-v-727e220b] {
+  fill: none;
+  stroke-width: 1;
+}
+
+text[data-v-53d7e0bb] {
+  font-size: 18px;
+}
+.monofont[data-v-53d7e0bb] {
+  font-size: 17px;
+}
+.lineMarker[data-v-53d7e0bb] {
+  text-anchor: end;
+  font-size: 12px;
+}
+.separator[data-v-53d7e0bb] {
+  stroke-width: 0.5;
+}
+.bigSeparator[data-v-53d7e0bb] {
+  stroke-width: 2;
+}
+.background[data-v-53d7e0bb] {
+  fill: none;
+  stroke-width: 1;
+}
+
+.block {
+  fill: none;
+  stroke-width: 1;
+  stroke: black;
+}
+
+/*# sourceMappingURL=app.919ce1089804cbc5407297f9a9d50721.css.map*/
