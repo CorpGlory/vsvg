@@ -1,14 +1,10 @@
 # Vue SVG
 
-A list of Vue.js / D3.js [examples](https://github.com/corpglory/d3vue/tree/master/src/d3-components)
+SVG based on Virtual Dom. Vue.js + d3.js (algorithms only)
+under the hood
 
-https://corpglory.github.io/d3vue/
+https://corpglory.github.io/vsvg/
 
-## Goals
-
-* Collect best practices
-* Make edu materials for Vue.js/D3.js learners
-* Show advantages of using D3.js on top of Vue.js
 
 ## Build Setup
 
