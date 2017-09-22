@@ -5,6 +5,8 @@ under the hood
 
 https://corpglory.github.io/vsvg/
 
+The example is illustrations for [Low-Level Programming book](https://www.amazon.com/Low-Level-Programming-Assembly-Execution-Architecture/dp/1484224027)
+
 
 ## Build Setup
 
