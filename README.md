@@ -25,10 +25,5 @@ For detailed explanation on how things work, checkout the [guide](http://vuejs-t
 
 See the [LICENSE](LICENSE.md) file for license rights and limitations (MIT).
 
-## Credits
-
-Sponsored by [CorpGlory](http://corpglory.com)
-Updates about project: http://twitter.com/corpglory
-
-If you like Data Visualisation,
-please consider to join to community http://corpglory.com/join
+## About CorpGlory Inc.
+The project developed by [CorpGlory Inc.](https://corpglory.com/), a company which provides high quality software development, data visualization, Grafana and monitoring consulting.
