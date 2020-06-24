@@ -27,3 +27,6 @@ See the [LICENSE](LICENSE.md) file for license rights and limitations (MIT).
 
 ## About CorpGlory Inc.
 The project developed by [CorpGlory Inc.](https://corpglory.com/), a company which provides high quality software development, data visualization, Grafana and monitoring consulting.
+
+
+something like this could be done in https://github.com/chartwerk/grafana-chartwerk-app , interesting, right?
